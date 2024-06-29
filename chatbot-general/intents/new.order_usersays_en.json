@@ -1,0 +1,28 @@
+[
+  {
+    "id": "f46325bb-b151-4b56-8a98-5dc2113bf27e",
+    "data": [
+      {
+        "text": "place a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddc2c661-3d45-4457-be9f-4ce24758f137",
+    "data": [
+      {
+        "text": "new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
